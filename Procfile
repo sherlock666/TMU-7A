@@ -1,0 +1,1 @@
+web gunicorn TMU7AAPP:app --timeout 1200
